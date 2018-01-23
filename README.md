@@ -1,4 +1,4 @@
-## Clone this repository. 
+## Clone this repository and change the text
 
 You will do this exercise in groups. 
 One person should type in the inputs. 
